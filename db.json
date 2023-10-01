@@ -1,19 +1,84 @@
 {
-    "posts": [
+    "students": [
         {
             "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
-    ],
-    "comments": [
+            "fullname": "Nguyễn Văn A",
+            "birthday": "1999-01-01",
+            "email": "nguyenvana@gmail.com",
+            "address": "Hà Nội",
+            "gender": "Nam"
+        },
         {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "id": 2,
+            "fullname": "Trần Thị B",
+            "birthday": "2000-02-02",
+            "email": "tranthibb@gmail.com",
+            "address": "Hồ Chí Minh",
+            "gender": "Nữ"
+        },
+        {
+            "id": 3,
+            "fullname": "Lê Quang C",
+            "birthday": "2001-03-03",
+            "email": "lequangc@gmail.com",
+            "address": "Đà Nẵng",
+            "gender": "Nam"
+        },
+        {
+            "id": 4,
+            "fullname": "Đặng Thị D",
+            "birthday": "2002-04-04",
+            "email": "dangthid@gmail.com",
+            "address": "Bắc Ninh",
+            "gender": "Nữ"
+        },
+        {
+            "id": 5,
+            "fullname": "Phan Văn E",
+            "birthday": "2003-05-05",
+            "email": "phanvanae@gmail.com",
+            "address": "Hải Phòng",
+            "gender": "Nam"
+        },
+        {
+            "id": 6,
+            "fullname": "Nguyễn Thị F",
+            "birthday": "2004-06-06",
+            "email": "nguyenthif@gmail.com",
+            "address": "Thanh Hóa",
+            "gender": "Nữ"
+        },
+        {
+            "id": 7,
+            "fullname": "Hoàng Văn G",
+            "birthday": "2005-07-07",
+            "email": "hoangvang@gmail.com",
+            "address": "Quảng Ninh",
+            "gender": "Nam"
+        },
+        {
+            "id": 8,
+            "fullname": "Đỗ Thị H",
+            "birthday": "2006-08-08",
+            "email": "dothih@gmail.com",
+            "address": "Thừa Thiên Huế",
+            "gender": "Nữ"
+        },
+        {
+            "id": 9,
+            "fullname": "Trịnh Văn I",
+            "birthday": "2007-09-09",
+            "email": "trinhvina@gmail.com",
+            "address": "Khánh Hòa",
+            "gender": "Nam"
+        },
+        {
+            "id": 10,
+            "fullname": "Lê Thị J",
+            "birthday": "2008-10-10",
+            "email": "lethij@gmail.com",
+            "address": "Cần Thơ",
+            "gender": "Nữ"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
